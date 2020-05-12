@@ -1,7 +1,10 @@
 # DocfxTemplate
 Patchworked DocFX v2 template for Cysharp
 
-This template styles are highly-inspired by [docs.microsoft.com](https://docs.microsoft.com/).
+The design of this template is strongly inspired by [docs.microsoft.com](https://docs.microsoft.com/).
+
+## Demo
+https://cysharp.github.io/MagicOnion/
 
 ## Usage
 
